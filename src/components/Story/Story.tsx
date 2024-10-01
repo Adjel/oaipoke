@@ -9,7 +9,6 @@ function Story() {
       </div>
       <div className="absolute px-12 bottom-0 top-0 self-center left-1/4 w-1/2 h-1/2">
         <div className="flex flex-col w-full h-full bg-white items-center">
-         
             <div className="realtive h-1/4 flex mt-2 mb-6 items-center">
               <div className="flex w-full h-fit justify-center items-center">
                 <span className="text-ocean text-center text-xl -rotate-6">Our Poke</span>
@@ -27,7 +26,6 @@ function Story() {
                 <button className="text-ocean border-2 border-ocean px-8 py-2">Voir le menu</button>
                 </div>
             </div>
-        
         </div>
       </div>
     </section>
